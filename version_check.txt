@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+###hitomila###hitomi<br />
+<br />
+###version3.8d-0.0###version<br />
+###date_compile1690253096###date_compile<br />
+###date_compile_beta1689656162###date_compile_beta<br />
+<br />
+###linkhttps://github.com/tenebo/Hitomi-Downloader-Mac/releases###link<br />
+###link_exporthttps://github.com/KurtBestor/Hitomi-Downloader/releases/download/v3.8d/hitomi_downloader_GUI.zip###link_export<br />
+###link_betahttps://github.com/tenebo/Hitomi-Downloader-Mac/releases/tag/Technical-Preview###link_beta<br />
+###link_beta_exporthttps://github.com/KurtBestor/Hitomi-Downloader/releases/download/Utils/beta26.zip###link_beta_export<br />
+###feedbackhttps://github.com/tenebo/Hitomi-Downloader-Mac/issues###feedback<br />
+###donatehttps://www.buymeacoffee.com/tenebo###donate<br />
+###discordhttps://discord.gg/n64kr2g###discord<br />
+###url_datahttps://kurtbestor.pythonanywhere.com/h_data###url_data<br />
+###changelogs{"ko": "https://raw.githubusercontent.com/KurtBestor/Hitomi-Downloader/master/translation/changelog_ko.txt", "en": "https://raw.githubusercontent.com/KurtBestor/Hitomi-Downloader/master/translation/changelog_en.txt"}###changelogs<br />
+###flickr_authhttps://kurtbestor.pythonanywhere.com/flickr/auth###flickr_auth<br />
+###ehen_tokenhttps://kurtbestor.pythonanywhere.com/ehen/token###ehen_token<br />
+###ytdl_url_pypihttps://pypi.org/simple/yt-dlp/###ytdl_url_pypi
+###ytdl_module_nameyt_dlp###ytdl_module_name
+###front_text<br /><br /><b><font color="red">※ v2.4 와 v2.5 에서 [자동 업데이트]가 동작하지 않습니다.<br />[수동 업데이트] 해주세요.</font></b>###front_text<br />
+###front_text_new###front_text_new<br />
+<br />
+
+###text<br />
+<b>3.8d &nbsp; &nbsp
+###text<br />
+<br />
+
+###text_en<br />
+<b>3.8d &nbsp; &nbsp;
+###text_en<br />
+
+###text_beta<br />
+<b>3.8d+ &nbsp; &nbsp;
+###text_beta<br />
+
+###text_beta_en<br />
+<b>3.8d+ &nbsp; &nbsp
+###text_beta_en<br />
+<br />
+
+@ 2023.06.23</p>
+</html>
