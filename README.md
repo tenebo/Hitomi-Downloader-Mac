@@ -3,11 +3,8 @@
 
 porting by Tenebo
 
-Current version is beta
-
 ## TODO
 #### Bugs
-* locale loading error https://github.com/pyinstaller/pyinstaller/issues/7862
 * buffer issue
 
 #### Unsupported
@@ -17,7 +14,6 @@ Current version is beta
 * Torrent download
 
 #### Optimize
-
 * muti process of extractors
 * searching from server
 
