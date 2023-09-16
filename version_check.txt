@@ -2,7 +2,7 @@
 <html>
 ###hitomila###hitomi<br />
 <br />
-###version3.8e-0.0###version<br />
+###version3.8d-0.0###version<br />
 ###date_compile1690253096###date_compile<br />
 ###date_compile_beta1692417285###date_compile_beta<br />
 <br />
@@ -33,11 +33,11 @@
 ###text_en<br />
 
 ###text_beta<br />
-<b>3.8d+ &nbsp; &nbsp;
+<b>3.8e+ &nbsp; &nbsp;
 ###text_beta<br />
 
 ###text_beta_en<br />
-<b>3.8d+ &nbsp; &nbsp
+<b>3.8e+ &nbsp; &nbsp
 ###text_beta_en<br />
 <br />
 
