@@ -4,7 +4,7 @@
 <br />
 ###version3.8d-0.0###version<br />
 ###date_compile1690253096###date_compile<br />
-###date_compile_beta1689656162###date_compile_beta<br />
+###date_compile_beta1694894730###date_compile_beta<br />
 <br />
 ###linkhttps://github.com/tenebo/Hitomi-Downloader-Mac/releases###link<br />
 ###link_exporthttps://github.com/KurtBestor/Hitomi-Downloader/releases/download/v3.8d/hitomi_downloader_GUI.zip###link_export<br />
