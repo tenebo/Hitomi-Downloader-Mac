@@ -3,7 +3,7 @@
 [![GitHub downloads](https://img.shields.io/github/downloads/tenebo/Hitomi-Downloader-Mac/latest/total.svg?logo=github)](https://github.com/tenebo/Hitomi-Downloader-Mac/releases/latest)
 [![GitHub downloads](https://img.shields.io/github/downloads/tenebo/Hitomi-Downloader-Mac/total.svg?logo=github)](https://github.com/tenebo/Hitomi-Downloader-Mac/releases)
 
-[Original work by KurtBestor](https://github.com/tenebo/Hitomi-Downloader-Mac)
+[Original work by KurtBestor](https://github.com/KurtBestor/Hitomi-Downloader/)
 
 porting by Tenebo
 
