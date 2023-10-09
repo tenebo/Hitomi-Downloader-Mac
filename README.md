@@ -14,7 +14,6 @@ porting by Tenebo
 * buffer issue
 
 #### Unsupported
-* auto upgrade
 * always top
 * Hitomi Taster
 * Torrent download
@@ -22,8 +21,7 @@ porting by Tenebo
 * Bypass DPI
 
 #### Optimize
-* muti process of extractors
-* searching from server
+* multi process of extractors
 
 ## Contact
 Discord Tenebo
