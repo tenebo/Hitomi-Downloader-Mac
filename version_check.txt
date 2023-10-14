@@ -2,12 +2,12 @@
 <html>
 ###hitomila###hitomi<br />
 <br />
-###version3.8d-0.0###version<br />
-###date_compile1690253096###date_compile<br />
+###version3.8f-0.0###version<br />
+###date_compile1697251919###date_compile<br />
 ###date_compile_beta1696735389###date_compile_beta<br />
 <br />
 ###linkhttps://github.com/tenebo/Hitomi-Downloader-Mac/releases###link<br />
-###link_exporthttps://github.com/tenebo/Hitomi-Downloader-Mac/releases/download/v3.8d-0.0/hitomi_downloader_GUI.dmg###link_export<br />
+###link_exporthttps://github.com/tenebo/Hitomi-Downloader-Mac/releases/download/v3.8f-0.0/hitomi_downloader_GUI.dmg###link_export<br />
 ###link_betahttps://github.com/tenebo/Hitomi-Downloader-Mac/releases/tag/Technical-Preview###link_beta<br />
 ###link_beta_exporthttps://github.com/tenebo/Hitomi-Downloader-Mac/releases/download/v3.8f-0.0-beta.1/hitomi_downloader_GUI.dmg###link_beta_export<br />
 ###feedbackhttps://github.com/tenebo/Hitomi-Downloader-Mac/issues###feedback<br />
@@ -24,20 +24,20 @@
 <br />
 
 ###text<br />
-<b>3.8d &nbsp; &nbsp
+<b>3.8f &nbsp; &nbsp
 ###text<br />
 <br />
 
 ###text_en<br />
-<b>3.8d &nbsp; &nbsp;
+<b>3.8f &nbsp; &nbsp;
 ###text_en<br />
 
 ###text_beta<br />
-<b>3.8e+ &nbsp; &nbsp;
+<b>3.8f+ &nbsp; &nbsp;
 ###text_beta<br />
 
 ###text_beta_en<br />
-<b>3.8e+ &nbsp; &nbsp
+<b>3.8f+ &nbsp; &nbsp
 ###text_beta_en<br />
 <br />
 
