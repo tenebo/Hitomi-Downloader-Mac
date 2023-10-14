@@ -4,12 +4,12 @@
 <br />
 ###version3.8f-0.0###version<br />
 ###date_compile1697251919###date_compile<br />
-###date_compile_beta1696735389###date_compile_beta<br />
+###date_compile_beta1697251919###date_compile_beta<br />
 <br />
 ###linkhttps://github.com/tenebo/Hitomi-Downloader-Mac/releases###link<br />
 ###link_exporthttps://github.com/tenebo/Hitomi-Downloader-Mac/releases/download/v3.8f-0.0/hitomi_downloader_GUI.dmg###link_export<br />
 ###link_betahttps://github.com/tenebo/Hitomi-Downloader-Mac/releases/tag/Technical-Preview###link_beta<br />
-###link_beta_exporthttps://github.com/tenebo/Hitomi-Downloader-Mac/releases/download/v3.8f-0.0-beta.1/hitomi_downloader_GUI.dmg###link_beta_export<br />
+###link_beta_exporthttps://github.com/tenebo/Hitomi-Downloader-Mac/releases/download/v3.8f-0.0/hitomi_downloader_GUI.dmg###link_beta_export<br />
 ###feedbackhttps://github.com/tenebo/Hitomi-Downloader-Mac/issues###feedback<br />
 ###donatehttps://www.buymeacoffee.com/tenebo###donate<br />
 ###discordhttps://discord.gg/n64kr2g###discord<br />
