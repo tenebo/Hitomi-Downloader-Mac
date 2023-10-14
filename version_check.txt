@@ -2,7 +2,7 @@
 <html>
 ###hitomila###hitomi<br />
 <br />
-###version3.8f-0.0###version<br />
+###version3.8f-0.1###version<br />
 ###date_compile1697251919###date_compile<br />
 ###date_compile_beta1697251919###date_compile_beta<br />
 <br />
