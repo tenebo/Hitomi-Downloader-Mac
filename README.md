@@ -20,8 +20,5 @@ porting by Tenebo
 * Chrome Extension Link
 * Bypass DPI
 
-#### Optimize
-* multi process of extractors
-
-## Contact
-Discord Tenebo
+## Contact & Feedback
+https://github.com/tenebo/Hitomi-Downloader-Mac/issues
