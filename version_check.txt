@@ -18,6 +18,7 @@
 ###flickr_authhttps://kurtbestor.pythonanywhere.com/flickr/auth###flickr_auth<br />
 ###ehen_tokenhttps://kurtbestor.pythonanywhere.com/ehen/token###ehen_token<br />
 ###ytdl_url_pypihttps://pypi.org/simple/yt-dlp/###ytdl_url_pypi
+###ytdl_url_pypi2https://github.com/KurtBestor/Hitomi-Downloader/releases/download/Utils/yt-dlp2.html###ytdl_url_pypi2
 ###ytdl_module_nameyt_dlp###ytdl_module_name
 ###front_text<br /><br /><b><font color="red">※ v2.4 와 v2.5 에서 [자동 업데이트]가 동작하지 않습니다.<br />[수동 업데이트] 해주세요.</font></b>###front_text<br />
 ###front_text_new###front_text_new<br />
