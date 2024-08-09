@@ -2,14 +2,14 @@
 <html>
 ###hitomila###hitomi<br />
 <br />
-###version4.1-0.1###version<br />
-###date_compile1721431028###date_compile<br />
-###date_compile_beta1721431028###date_compile_beta<br />
+###version4.1-0.2###version<br />
+###date_compile1723226399###date_compile<br />
+###date_compile_beta1723226399###date_compile_beta<br />
 <br />
 ###linkhttps://github.com/tenebo/Hitomi-Downloader-Mac/releases###link<br />
-###link_exporthttps://github.com/tenebo/Hitomi-Downloader-Mac/releases/download/v4.1-0.1/hitomi_downloader_GUI.dmg###link_export<br />
+###link_exporthttps://github.com/tenebo/Hitomi-Downloader-Mac/releases/download/v4.1-0.2/hitomi_downloader_GUI.dmg###link_export<br />
 ###link_betahttps://github.com/tenebo/Hitomi-Downloader-Mac/releases/tag/Technical-Preview###link_beta<br />
-###link_beta_exporthttps://github.com/tenebo/Hitomi-Downloader-Mac/releases/download/v4.1-0.1/hitomi_downloader_GUI.dmg###link_beta_export<br />
+###link_beta_exporthttps://github.com/tenebo/Hitomi-Downloader-Mac/releases/download/v4.1-0.2/hitomi_downloader_GUI.dmg###link_beta_export<br />
 ###feedbackhttps://github.com/tenebo/Hitomi-Downloader-Mac/issues###feedback<br />
 ###donatehttps://www.buymeacoffee.com/tenebo###donate<br />
 ###discordhttps://discord.gg/n64kr2g###discord<br />
