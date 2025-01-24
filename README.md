@@ -1,4 +1,4 @@
-# Hitomi-Downloader-Mac
+# HIMAC Downloader
 [![GitHub release](https://img.shields.io/github/release/tenebo/Hitomi-Downloader-Mac.svg?logo=github)](https://github.com/tenebo/Hitomi-Downloader-Mac/releases/latest)
 [![GitHub downloads](https://img.shields.io/github/downloads/tenebo/Hitomi-Downloader-Mac/latest/total.svg?logo=github)](https://github.com/tenebo/Hitomi-Downloader-Mac/releases/latest)
 [![GitHub downloads](https://img.shields.io/github/downloads/tenebo/Hitomi-Downloader-Mac/total.svg?logo=github)](https://github.com/tenebo/Hitomi-Downloader-Mac/releases)
@@ -14,10 +14,6 @@ porting by Tenebo
 
 #### Unsupported
 * always top
-* Hitomi Taster
 * Torrent download
 * Chrome Extension Link
 * Bypass DPI
-
-## Contact & Feedback
-https://github.com/tenebo/Hitomi-Downloader-Mac/issues
